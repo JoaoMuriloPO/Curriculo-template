@@ -80,7 +80,7 @@ O principal objetivo deste projeto é:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/curriculo.git
+git clone https://github.com/JoaoMuriloPO/Curriculo-template
 ```
 
 ### 2. Instalar as dependências
@@ -140,7 +140,7 @@ Isso permite criar facilmente novas versões, como:
 
 ### 👨‍💻 Autor
 
-Nome: João Murilo Pereira de Oliveira<br>
-LinkedIn: https://linkedin.com/in/joaomurilopoo<br>
-GitHub: https://github.com/JoaoMuriloPO<br>
-Portfólio: https://portfolio-pessoal-joao-murilo.vercel.app
+Nome: João Murilo Pereira de Oliveira
+- LinkedIn: https://linkedin.com/in/joaomurilopoo
+- GitHub: https://github.com/JoaoMuriloPO
+- Portfólio: https://portfolio-pessoal-joao-murilo.vercel.app
