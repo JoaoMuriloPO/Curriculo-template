@@ -1,3 +1,4 @@
+<img width="1704" height="908" alt="image" src="https://github.com/user-attachments/assets/1813b981-38b0-4d89-9131-c471a44790ec" />
 
 
 ---
@@ -144,3 +145,4 @@ Nome: João Murilo Pereira de Oliveira
 - LinkedIn: https://linkedin.com/in/joaomurilopoo
 - GitHub: https://github.com/JoaoMuriloPO
 - Portfólio: https://portfolio-pessoal-joao-murilo.vercel.app
+
